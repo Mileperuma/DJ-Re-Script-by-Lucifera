@@ -1,7 +1,7 @@
 # DJ-Re-Script-by-Lucifera
-DJ Re-Script by Lucifera {Special thanks to JUBAER}
-Music Streaming System to SAMP by JUBAER
-Re-Script by Lucifera {Under Construction}
+DJ Re-Script by Lucifera {Special thanks to JUBAER}                                                                               
+Music Streaming System to SAMP by JUBAER                                                                               
+Re-Script by Falcon                                                                                
 
 # Filterscript Commands
 /dcmds to check filterscript commands totally.                                                                             
