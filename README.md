@@ -4,7 +4,7 @@ Music Streaming System to SAMP by JUBAER
 Re-Script by Lucifera {Under Construction}
 
 # Filterscript Commands
-/dcmds to check filterscript commands totally. 
+/dcmds to check filterscript commands totally. \n
 /stream by link to play music .. you can upload your music tracts on jukehost.co.uk and play that by /stream [link]
 /stopstream to stop playing song
 /stopmusic - players able to stop music {only for their own}
