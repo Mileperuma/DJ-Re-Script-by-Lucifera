@@ -1,4 +1,4 @@
-# DJ-Re-Script-by-Lucifera
+# DJ-System-Re-Script-For-Samp
 DJ Re-Script by Lucifera {Special thanks to JUBAER}                                                                               
 Music Streaming System to SAMP by JUBAER                                                                               
 Re-Script by Falcon                                                                                
