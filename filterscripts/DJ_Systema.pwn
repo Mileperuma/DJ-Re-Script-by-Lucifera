@@ -1,5 +1,6 @@
 /*//CREDITS:
-Lucifera Editing the script and add some more updates
+Lucifera Editing the script and add some more updates.. Music Streaming System for Grand Theft Auto San andreas
+
 Jubaer for the Real Script
 DracoBlue for Dini
 Zeex for ZCMD
